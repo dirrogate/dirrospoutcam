@@ -4,7 +4,12 @@ A simple windows based laptop webcam to spout sender
 Couldn't believe there isn't an easy way to pipe a webcam feed into SPOUT without using OBS, so vibe-coded this little utility for DJ visual needs.
 It's simple and hopefully picks the first webcam it sees on your system and creates a Spout feed from it so it can be accessed from Spout recieving capable apps.
 
-A quick and dirty way to get my laptop webcam feed (aimed at audiences in clubs) onto VJ software. Using OBS is the more elegant way.
+**INSTRUCTIONS**
+Download both zipped files and it will expand to a single zip/folder (Github web inteface does not allow uploading files bigger than 25mb)
+Once unzipped into a folder, run the .exe file.
+This app was created in Unity 2022.
+
+Made for personal use - It's a quick way to get my laptop webcam feed (aimed at audiences in clubs) onto VJ software. Using OBS is the more elegant way.
 Some effects are there:
 
 - E for edge filter on the video feed
