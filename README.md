@@ -1,5 +1,8 @@
 # dirrospoutcam
-A simple windows based laptop webcam to spout sender
+
+![MetaScreenshot1765061803](https://github.com/user-attachments/assets/26822613-684e-4a4d-b663-7a41313099d4)
+
+A simple (Windows) laptop webcam to spout sender
 
 Couldn't believe there isn't an easy way to pipe a webcam feed into SPOUT without using OBS, so vibe-coded this little utility for DJ visual needs.
 It's simple and hopefully picks the first webcam it sees on your system and creates a Spout feed from it so it can be accessed from Spout recieving capable apps.
