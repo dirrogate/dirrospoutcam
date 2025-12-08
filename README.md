@@ -20,5 +20,9 @@ Some effects are there:
 - G for a glitch
 - M to return to main image (was supposed to be motion trails but vibe coding via ChatGpt has its own issues)
 - A for an Ascii art like effect
+- 0 to go back to default effect
+- Q to open windows explorer to find mp4 video to play
+- W to return to webcam view
+- mouse over hover: shows hotkeys
 
 Enjoy!
