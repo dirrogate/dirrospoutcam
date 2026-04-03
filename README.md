@@ -1,6 +1,7 @@
 # dirrospoutcam
 
-![MetaScreenshot1765061803](https://github.com/user-attachments/assets/26822613-684e-4a4d-b663-7a41313099d4)
+<img width="960" height="720" alt="Portrait CyberTrance Redrum - (1x1) 00_01_44_03 Still001" src="https://github.com/user-attachments/assets/35d4f985-6b9e-4f3d-b0d7-4b191ea12f8c" />
+
 
 A simple (Windows) laptop webcam to spout sender
 
